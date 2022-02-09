@@ -8,8 +8,8 @@ A chatbot with API integration is created using Bot Framework.
 A chatbot is embeded into a static website. The chatbot gives details about the number of COVID-related cases, deaths and recoveries. The chatbot is also intergrated to show news articles. The news articles are from BBC news. It gives the title, link and published date of the news article.
 
 ### The API used are:
-COVID API: https://documenter.getpostman.com/vie...
-NEWS API: https://newsapi.org
+- COVID API: https://documenter.getpostman.com/vie...
+- NEWS API: https://newsapi.org
 
 
 
