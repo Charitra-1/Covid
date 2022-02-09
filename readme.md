@@ -1,6 +1,16 @@
-# Vanilla JavaScript App
+# ChatBot for COVID related cases and news
+A chatbot with API integration is created using Bot Framework.
+## The Azure sevices used are:
+- Azure Static Web APP
+- Azure Bot 
+- Azure QnA Maker
+
+A chatbot is embeded into a static website. The chatbot gives details about the number of COVID-related cases, deaths and recoveries. The chatbot is also intergrated to show news articles. The news articles are from BBC news. It gives the title, link and published date of the news article.
+
+### The API used are:
+COVID API: https://documenter.getpostman.com/vie...
+NEWS API: https://newsapi.org
 
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+
