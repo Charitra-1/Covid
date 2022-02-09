@@ -16,7 +16,7 @@ A chatbot is embeded into a static website. The chatbot gives details about the 
 
 #### Some snapshots of the website
 
-!(https://github.com/Charitra-1/Covid/blob/main/images/covid.png)
-!(https://github.com/Charitra-1/Covid/blob/main/images/news.png)
+![](https://github.com/Charitra-1/Covid/blob/main/images/covid.png)
+![](https://github.com/Charitra-1/Covid/blob/main/images/news.png)
 
 
