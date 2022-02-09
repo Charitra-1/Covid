@@ -8,7 +8,7 @@ Public and private stakeholders must come together to maximize these benefits wh
 - Azure Bot 
 - Azure QnA Maker
 
-A chatbot is embeded into a static website. The chatbot gives details about the number of COVID-related cases, deaths and recoveries. The chatbot is also intergrated to show news articles. The news articles are from BBC news. It gives the title, link and published date of the news article.
+A chatbot is embeded into a static website. The chatbot gives details about the number of COVID-related cases, deaths and recoveries. The chatbot is also intergrated to show news articles. The news articles are from BBC news. It gives the title, link and published date and time of the news article.
 
 ### The API used are:
 - COVID API: https://documenter.getpostman.com/vie...
