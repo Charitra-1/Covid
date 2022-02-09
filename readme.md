@@ -1,5 +1,8 @@
 # ChatBot for COVID related cases and news
 A chatbot with API integration is created using Bot Framework.
+The COVID-19 pandemic has helped widen global usage for chatbot technology.
+After the pandemic, the use of chatbots for healthcare applications will continue to grow.
+Public and private stakeholders must come together to maximize these benefits while minimizing risks.
 ## The Azure sevices used are:
 - Azure Static Web APP
 - Azure Bot 
